@@ -10,7 +10,7 @@ A markDown File that includes.
 
 ## A timeline diagram that tells us the year of the 3 futures
 
-<img src=".../Images/A1 Timeline.jpg">
+<img src="../Images/A1 Timeline.jpg">
 
 ## System selection
 

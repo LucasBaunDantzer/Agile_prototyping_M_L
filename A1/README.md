@@ -1,10 +1,6 @@
 # Roskilde Pavilion
 
-Filler :)
-
-## Submission details
-
-A markDown File that includes.
+Group members: Magnus Rathenborg (s193950) & Lucas Baun Dantzer (s193934)
 
 ### Paragraph for each future near mid and far (you will use these to generate needs in A2)
 

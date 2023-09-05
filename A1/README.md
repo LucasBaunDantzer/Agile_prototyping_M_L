@@ -1,6 +1,7 @@
 # Roskilde Pavilion
 
-Group members: Magnus Rathenborg (s193950) & Lucas Baun Dantzer (s193934)
+Agile Team 1
+Magnus Rathenborg (s193950) & Lucas Baun Dantzer (s193934)
 
 ### Paragraph for each future near mid and far (you will use these to generate needs in A2)
 

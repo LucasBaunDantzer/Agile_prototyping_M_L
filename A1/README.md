@@ -35,7 +35,7 @@ The main focus will be on the pavilion's function with a sub-focus on material a
 
 ### System Selection
 
-We are focusing on three systems of the pavilion itself to fulfil requirements that will arise from the gene system focus. These systems will be assembly/joints, the exterior/skin, and the platform on which the users will stand.
+We are focusing on three systems of the pavilion itself to fulfill requirements that will arise from the gene system focus. These systems will be assembly/joints, the exterior/skin, and the platform on which the users will stand.
 
 ### Planet A or B focus with justification
 

@@ -8,11 +8,11 @@ Group members: Magnus Rathenborg (s193950) & Lucas Baun Dantzer (s193934)
 
 <img src="../Images/A1 Timeline.jpg">
 
-### System selection
+### Project Selection and justification
 
 ### Gene System focus with justification
 
-### Project Selection and justification
+### System Selection
 
 ### Planet A or B focus with justification
 

@@ -14,5 +14,5 @@ Group members: Magnus Rathenborg (s193950) & Lucas Baun Dantzer (s193934)
 
 ### Project Selection and justification
 
-### Planet A or B focus wiht justification.
+### Planet A or B focus with justification
 

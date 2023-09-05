@@ -14,10 +14,10 @@ Roskilde Festival looks to the attendants for feedback on existing areas and per
 **H3** \
 Other festivals have been closed due to bad weather – often flooding and rainstorms. The Danish weather is often rainy and/or windy which seems to worsen in the future. The temperature is at the same time rising globally which affects Denmark as well so the weather could also be warmer than in the past years even though Denmark is generally a chilly country.
 
-Examples of other festivals:
-Burning Man (2023) – Mud chaos due to heavy rain.
-Sled Island, Canada (2013) – The city was flooded overnight.
-Glastonbury (2005) – Torrential rain and flash floods.
+Examples of other festivals: \
+Burning Man (2023) – Mud chaos due to heavy rain. \
+Sled Island, Canada (2013) – The city was flooded overnight. \
+Glastonbury (2005) – Torrential rain and flash floods. \
 TommorowWorld (2015) – Horrendous weather.
 
 

@@ -34,7 +34,7 @@ Features regarding the function that can be developed early are the seating arra
 #### Build
 The build gene system will have elements that are premade and easy to assemble. This could be wooden beams and columns that are cut with joints and predrilled holes for bolts to be easily tightened. This feature will ensure easy assembly. The use of simple columns to support the overhang when the façade elements are tilted outwards will need to be established.
 
-<img src="../Images/Timeline_Build.png.png">
+<img src="../Images/Timeline_Build.png">
  
 Features related to the building-gene are all ready for 2024.
 #### Material

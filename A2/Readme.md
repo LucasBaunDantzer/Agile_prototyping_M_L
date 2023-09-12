@@ -2,7 +2,7 @@
 
 ## 2.1 AFDP_01 identify Future Gaps
 
-for each of your futures from A1:
+for each of your futures from A1: \
 Address the points from the AFDP (AFDP_01) description.
 
 ## 2.2 AFDP_02 Define System Requirements

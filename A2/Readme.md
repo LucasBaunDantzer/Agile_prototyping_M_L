@@ -69,7 +69,8 @@ The materials should be tested for durability and weather protection by being ex
 
 ## 2.6 Future Case
 #### Title: A Stormy Day at Roskilde Festival
-#### Character: Karen, a 28-year-old festival enthusiast \\
+#### Character: Karen, a 28-year-old festival enthusiast \
+\
 It is the summer of 2028 as the clouds gather over the Roskilde Festival grounds, Karen checks her festival app on her phone. The weather forecast is grim—heavy rain and possible thunderstorms for the day. Despite the weather, she's excited about today's performances at the Pavilion, known for its adaptability to unpredictable conditions. \\
 Karen heads to the pavilion from DTU she has heard so much about. Along the way, she notices a weather prediction device stationed near the festival entrance. It is a part of the pavilion from DTU and serves to inform people at the entrance. It provides real-time updates and advises attendees on which areas to avoid due to potential storm hazards. Karen makes a mental note of it as she proceeds, but also remembers that here festival app contains the same information.
 Arriving at the pavilion, Karen marvels at its transformation since her last visit. The pavilion's façade has been updated with a unique feature—a hinged overhang. Even with the pouring rain, festivalgoers gather beneath the sheltered area, enjoying performances and staying dry. Karen takes advantage of this innovative shelter as she waits for her friends to arrive. \\

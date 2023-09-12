@@ -1,6 +1,6 @@
 # A2 Needs
 
-## 2.1 AFDP_01 identify Future Gaps
+## 2.1 AFDP_01 Identify Future Gaps
 
 for each of your futures from A1: \
 Address the points from the AFDP (AFDP_01) description.

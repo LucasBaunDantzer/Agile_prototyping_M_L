@@ -1,4 +1,4 @@
-# A3 Analyse
+# A3 Analyze
 
 Exercise(s) Identify an artefact or system that we are familiar with today. Reverse it in pseudo developmental stages… Example: MorphoPrototyping:
 

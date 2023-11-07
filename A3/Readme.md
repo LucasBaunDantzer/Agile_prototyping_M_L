@@ -1,5 +1,7 @@
 # A3 Analyze
-
+**Team members:** \
+Magnus Rathenborg s193950 \
+Lucas Baun Dantzer s193934 \
  <img src="../Images/Udklip.PNG">
 
 **Problem:** Designing an Easy-to-Assemble Honeycomb Pavilion for the Roskilde Festival. \

@@ -1,5 +1,7 @@
 # A3 Analyze
 
+ <img src="../Images/Udklip.PNG">
+
 **Problem:** Designing an Easy-to-Assemble Honeycomb Pavilion for the Roskilde Festival. \
 **Prototype:** Roskilde Festival Honeycomb Pavilion \
 **Pseudo Developmental Features and Stages for Roskilde Festival Honeycomb Pavilion:** \
@@ -17,7 +19,7 @@
 •	Materials are formed and shaped at DTU for easy assembly on site. \
 •	The genetic blueprint dictates the precise shaping and interlocking mechanisms of honeycomb-inspired components. \
 •	This could be 3D-printed 3-way connectors such as simple ones for garden hoses (enlarged). \
- <img src="../Images/Picture1.jpg">
+ <img src="../Images/Picture1.jpg"> \
 **Stage 4 - Birth (On-Site Assembly and Testing):** \
 •	Festival attendees, with the help of a small team of technicians, assemble the pavilion on-site using minimal tools. \
 •	Rigorous testing ensures that assembly is straightforward and safe. \

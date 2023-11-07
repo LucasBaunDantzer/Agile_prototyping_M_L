@@ -3,6 +3,7 @@
 Magnus Rathenborg s193950 \
 Lucas Baun Dantzer s193934 \
  <img src="../Images/Udklip.PNG">
+The image is a depiction of a Rhino / Grasshopper model where the radius and the size of the hexagons can be controlled parametrically.
 
 **Problem:** Designing an Easy-to-Assemble Honeycomb Pavilion for the Roskilde Festival. \
 **Prototype:** Roskilde Festival Honeycomb Pavilion \

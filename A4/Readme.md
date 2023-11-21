@@ -10,7 +10,7 @@ When the pavilion is assembled with the structural parts fabric canvases can be 
 When using the honeycomb structure, a rather large structure can be created since the individual elements of the bamboo pipes won’t be too long to fit inside the container. Thus, the pavilion can be adjusted in size to fit different purposes from small concerts to a more intimate smaller function. 
 
 <img src="../Images/A4.png" width="500"/> \
-A picture depicting the materials needed for construction and how they are connected. We see ground plugs in the ground, three-way connectors between the bamboo pipes, and a canvas in the middle for delivering messages or presenting the DTU logo. \
+A picture depicting the materials needed for construction and how they are connected. We see ground plugs in the ground, three-way connectors between the bamboo pipes, and a canvas in the middle for delivering messages or presenting the DTU logo.
 
 ## User behavior change or AP change
 To fully utilize the feedback feature of the pavilion we will need users to be a bit more outgoing and make an outreach themselves after spotting the messages of the pavilion. However, we believe our pavilion should also change from year to year to adapt the needs and the feedback of the users to make it both easier to get future feedback but also to deliver a better experience for the users.

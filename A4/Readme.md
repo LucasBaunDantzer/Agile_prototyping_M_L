@@ -2,7 +2,7 @@
 
 **Team members:** \
 Magnus Rathenborg s193950 \
-Lucas Baun Dantzer s193934 \
+Lucas Baun Dantzer s193934
 
 ## User interactions and feature expression
 The first user to interact with our pavilion will be the team that needs to package the pavilion in the container as well as the team assembling the pavilion on site. Our pavilion is made to be easy to assemble, the hardest part comes from drilling ground plugs into the ground which will be the basis of the pavilion that will support the entire structure. On top of the ground plugs, three-way connectors with rubber rings will be mounted and on these three-way connectors, the bamboo pipes can be inserted. The ground plugs and bamboo pipes are meant to be bought from a hardware store whereas the three-way connectors are meant to be 3D printed at DTU to fit the sizes of the bamboo pipes and have the correct angles. \

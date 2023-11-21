@@ -16,7 +16,7 @@ A picture depicting the materials needed for construction and how they are conne
 To fully utilize the feedback feature of the pavilion we will need users to be a bit more outgoing and make an outreach themselves after spotting the messages of the pavilion. However, we believe our pavilion should also change from year to year to adapt the needs and the feedback of the users to make it both easier to get future feedback but also to deliver a better experience for the users. \
 
 ## Reverse engineering utilization
-?
+By doing a reverse engineering we have identified the key parts of the pavillion and have been able to select adequate materials that will provide strength and durability while still being ECO friendly such as the bamboo.
 
 ## Full-scale model link to prototype
 Our prototype is a simple one made in the software Grasshopper which will make it easy to try out different sizing of the pavilion and the hexagonal shape. Through this model, we can calculate the angles for the three-way connectors, and this will be the direct link to the full-scale model. \

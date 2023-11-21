@@ -10,5 +10,5 @@ When the pavilion is assembled with the structural parts fabric canvases can be 
 When using the honeycomb structure, a rather large structure can be created since the individual elements of the bamboo pipes won’t be too long to fit inside the container. Thus, the pavilion can be adjusted in size to fit different purposes from small concerts to a more intimate smaller function. \
 
 
-<img src="../Images/A4.PNG"> \
+<img src="../Images/A4.png"> \
 A picture depicting the materials needed for construction and how they are connected. We see ground plugs in the ground, three-way connectors between the bamboo pipes, and a canvas in the middle for delivering messages or presenting the DTU logo. \
